@@ -1,0 +1,19 @@
+{
+    "name": "Altijd een gevecht",
+    "symbol": "",
+    "image": "touwtrekken.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "touwtrekken.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "EE9zyQNUCR6nNrXZJdTjGkgPTnbghFFR3ucv4qtZsxgK",
+          "share": 100
+        }
+      ]
+    }
+  }

@@ -1,0 +1,19 @@
+{
+    "name": "Duckie",
+    "symbol": "",
+    "image": "duckie.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "duckie.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "EE9zyQNUCR6nNrXZJdTjGkgPTnbghFFR3ucv4qtZsxgK",
+          "share": 100
+        }
+      ]
+    }
+  }

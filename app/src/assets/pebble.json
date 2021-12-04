@@ -1,0 +1,19 @@
+{
+    "name": "Pebble, First of her kind",
+    "symbol": "",
+    "image": "pebble.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "pebble.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "EE9zyQNUCR6nNrXZJdTjGkgPTnbghFFR3ucv4qtZsxgK",
+          "share": 100
+        }
+      ]
+    }
+  }
